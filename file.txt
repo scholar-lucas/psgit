@@ -1,3 +1,4 @@
 hi,world
 second write
-third wx
+<<<<<<< HEAD
+third write
